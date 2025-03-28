@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1>Hi, I'm Adam! <br/><a href="https://github.com/JoshuaAdamBallew">IT Professional</a>, <a href="https://www.linkedin.com/in/adamballew">Cybersecurity Professional</a>, </h1>
 
-<!--
-**JoshuaAdamBallew/JoshuaAdamBallew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Cyber Security Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Azure SOC/SIEM using Microsoft Sentienel</b>
+  - [Created a virutal SOC/SIEM within Azure using Microsft Sentienel](https://github.com/joshuaadamballew/AzureHoneySoc)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>Cloud Engineering Project</h2>
+
+- [Azure Honey POT](https://github.com/joshuaadamballew/AzureHoneypot)
+  
+
+<h2> Certification </h2>
+
+- [Comptia Security +] In Progress
+
+
+
+[linkedin]: https://linkedin.com/in/joshmadakor
+
+
