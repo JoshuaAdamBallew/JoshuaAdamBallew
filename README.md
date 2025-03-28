@@ -12,7 +12,7 @@
   - [Cloud Project](https://github.com/joshuaadamballew/AzureSoc)
   
 
-<h2> Certification </h2>
+<h2> Certifications </h2>
 
 - [Comptia Security +] In Progress
 
