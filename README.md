@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adam! <br/><a href="https://github.com/JoshuaAdamBallew">IT Professional</a>, <a href="https://www.linkedin.com/in/adamballew"> Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Adam! <br/><I>IT Professional</I>, <I>Cybersecurity Professional</I?</h1>
 
 <h2>Cyber Security Projects:</h2>
 
