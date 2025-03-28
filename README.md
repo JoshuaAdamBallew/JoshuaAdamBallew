@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adam! <br/><I>IT Professional</I>, <I>Cybersecurity Professional</I?</h1>
+<h1>Hi, I'm Adam! </h1>IT Professional, Cybersecurity Professional, Cloud Engineer. 
 
 <h2>Cyber Security Projects:</h2>
 
