@@ -3,12 +3,13 @@
 <h2>Cyber Security Projects:</h2>
 
 - <b>Azure SOC/SIEM using Microsoft Sentinel</b>
-  - [Virutal SOC/SIEM within Azure using Microsft Sentinel](https://github.com/joshuaadamballew/AzureSoc)
+  - [Cybersecurity Project](https://github.com/joshuaadamballew/AzureSoc)
 
 
 <h2>Cloud Engineering Project</h2>
 
-- [Azure Honey POT withing Azure using Log Analytics workspace](https://github.com/joshuaadamballew/AzureSoc)
+- <b>Azure Honey Pot using Log Analytics Worksace and other Azure Resources: 
+  - [Cloud Project](https://github.com/joshuaadamballew/AzureSoc)
   
 
 <h2> Certification </h2>
